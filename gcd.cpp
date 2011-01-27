@@ -6,6 +6,8 @@
  *
  * Design and Analysis of Algorithms, Spring 2011
  * Section 1.1 of "Introduction to The Design & Analysis of Algorithms"
+ *
+ * Determine the greatest common divisor between two integers.
  */
 
 #include <iostream>
